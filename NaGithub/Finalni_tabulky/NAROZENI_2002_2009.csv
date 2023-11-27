@@ -1,0 +1,617 @@
+"ROK","NAROZENI","OKRES","KRAJ","ID_KRAJ","ROK_JPZ"
+"2002","9690","Hlavní město Praha ","Praha","CZ010",2017
+"2002","839","Benešov","Středočeský","CZ020",2017
+"2002","678","Beroun","Středočeský","CZ020",2017
+"2002","1418","Kladno","Středočeský","CZ020",2017
+"2002","902","Kolín","Středočeský","CZ020",2017
+"2002","588","Kutná Hora","Středočeský","CZ020",2017
+"2002","984","Mělník","Středočeský","CZ020",2017
+"2002","1076","Mladá Boleslav","Středočeský","CZ020",2017
+"2002","814","Nymburk","Středočeský","CZ020",2017
+"2002","901","Praha-východ","Středočeský","CZ020",2017
+"2002","852","Praha-západ","Středočeský","CZ020",2017
+"2002","960","Příbram","Středočeský","CZ020",2017
+"2002","471","Rakovník","Středočeský","CZ020",2017
+"2002","1626","České Budějovice","Jihočeský","CZ031",2017
+"2002","631","Český Krumlov","Jihočeský","CZ031",2017
+"2002","838","Jindřichův Hradec","Jihočeský","CZ031",2017
+"2002","637","Písek","Jihočeský","CZ031",2017
+"2002","497","Prachatice","Jihočeský","CZ031",2017
+"2002","624","Strakonice","Jihočeský","CZ031",2017
+"2002","880","Tábor","Jihočeský","CZ031",2017
+"2002","532","Domažlice","Plzeňský","CZ032",2017
+"2002","796","Klatovy","Plzeňský","CZ032",2017
+"2002","1446","Plzeň-město","Plzeňský","CZ032",2017
+"2002","615","Plzeň-jih","Plzeňský","CZ032",2017
+"2002","645","Plzeň-sever","Plzeňský","CZ032",2017
+"2002","376","Rokycany","Plzeňský","CZ032",2017
+"2002","476","Tachov","Plzeňský","CZ032",2017
+"2002","901","Cheb","Karlovarský","CZ041",2017
+"2002","1093","Karlovy Vary","Karlovarský","CZ041",2017
+"2002","955","Sokolov","Karlovarský","CZ041",2017
+"2002","1356","Děčín","Ústecký","CZ042",2017
+"2002","1280","Chomutov","Ústecký","CZ042",2017
+"2002","1059","Litoměřice","Ústecký","CZ042",2017
+"2002","843","Louny","Ústecký","CZ042",2017
+"2002","1160","Most","Ústecký","CZ042",2017
+"2002","1230","Teplice","Ústecký","CZ042",2017
+"2002","1258","Ústí nad Labem","Ústecký","CZ042",2017
+"2002","1078","Česká Lípa","Liberecký","CZ051",2017
+"2002","846","Jablonec nad Nisou","Liberecký","CZ051",2017
+"2002","1535","Liberec ","Liberecký","CZ051",2017
+"2002","673","Semily","Liberecký","CZ051",2017
+"2002","1367","Hradec Králové","Královéhradecký","CZ052",2017
+"2002","699","Jičín","Královéhradecký","CZ052",2017
+"2002","1058","Náchod","Královéhradecký","CZ052",2017
+"2002","747","Rychnov nad Kněžnou","Královéhradecký","CZ052",2017
+"2002","1075","Trutnov","Královéhradecký","CZ052",2017
+"2002","929","Chrudim","Pardubický","CZ053",2017
+"2002","1376","Pardubice","Pardubický","CZ053",2017
+"2002","964","Svitavy","Pardubický","CZ053",2017
+"2002","1384","Ústí nad Orlicí","Pardubický","CZ053",2017
+"2002","866","Havlíčkův Brod","Kraj Vysočina","CZ061",2017
+"2002","1013","Jihlava","Kraj Vysočina","CZ061",2017
+"2002","644","Pelhřimov","Kraj Vysočina","CZ061",2017
+"2002","1018","Třebíč","Kraj Vysočina","CZ061",2017
+"2002","1214","Žďár nad Sázavou","Kraj Vysočina","CZ061",2017
+"2002","943","Blansko","Jihomoravský","CZ062",2017
+"2002","3427","Brno-město","Jihomoravský","CZ062",2017
+"2002","1467","Brno-venkov","Jihomoravský","CZ062",2017
+"2002","1005","Břeclav","Jihomoravský","CZ062",2017
+"2002","1404","Hodonín","Jihomoravský","CZ062",2017
+"2002","809","Vyškov","Jihomoravský","CZ062",2017
+"2002","1012","Znojmo","Jihomoravský","CZ062",2017
+"2002","378","Jeseník","Olomoucký","CZ071",2017
+"2002","1990","Olomouc","Olomoucký","CZ071",2017
+"2002","971","Prostějov","Olomoucký","CZ071",2017
+"2002","1201","Přerov","Olomoucký","CZ071",2017
+"2002","1127","Šumperk","Olomoucký","CZ071",2017
+"2002","889","Kroměříž","Zlínský","CZ072",2017
+"2002","1253","Uherské Hradiště","Zlínský","CZ072",2017
+"2002","1318","Vsetín","Zlínský","CZ072",2017
+"2002","1735","Zlín","Zlínský","CZ072",2017
+"2002","1007","Bruntál","Moravskoslezský","CZ080",2017
+"2002","2013","Frýdek-Místek","Moravskoslezský","CZ080",2017
+"2002","2445","Karviná","Moravskoslezský","CZ080",2017
+"2002","1493","Nový Jičín","Moravskoslezský","CZ080",2017
+"2002","1626","Opava","Moravskoslezský","CZ080",2017
+"2002","2860","Ostrava-město","Moravskoslezský","CZ080",2017
+"2003","10057","Hlavní město Praha ","Praha","CZ010",2018
+"2003","827","Benešov","Středočeský","CZ020",2018
+"2003","682","Beroun","Středočeský","CZ020",2018
+"2003","1474","Kladno","Středočeský","CZ020",2018
+"2003","956","Kolín","Středočeský","CZ020",2018
+"2003","610","Kutná Hora","Středočeský","CZ020",2018
+"2003","915","Mělník","Středočeský","CZ020",2018
+"2003","1008","Mladá Boleslav","Středočeský","CZ020",2018
+"2003","810","Nymburk","Středočeský","CZ020",2018
+"2003","1006","Praha-východ","Středočeský","CZ020",2018
+"2003","887","Praha-západ","Středočeský","CZ020",2018
+"2003","970","Příbram","Středočeský","CZ020",2018
+"2003","488","Rakovník","Středočeský","CZ020",2018
+"2003","1639","České Budějovice","Jihočeský","CZ031",2018
+"2003","612","Český Krumlov","Jihočeský","CZ031",2018
+"2003","826","Jindřichův Hradec","Jihočeský","CZ031",2018
+"2003","660","Písek","Jihočeský","CZ031",2018
+"2003","479","Prachatice","Jihočeský","CZ031",2018
+"2003","607","Strakonice","Jihočeský","CZ031",2018
+"2003","913","Tábor","Jihočeský","CZ031",2018
+"2003","560","Domažlice","Plzeňský","CZ032",2018
+"2003","797","Klatovy","Plzeňský","CZ032",2018
+"2003","1415","Plzeň-město","Plzeňský","CZ032",2018
+"2003","598","Plzeň-jih","Plzeňský","CZ032",2018
+"2003","690","Plzeň-sever","Plzeňský","CZ032",2018
+"2003","374","Rokycany","Plzeňský","CZ032",2018
+"2003","500","Tachov","Plzeňský","CZ032",2018
+"2003","846","Cheb","Karlovarský","CZ041",2018
+"2003","1128","Karlovy Vary","Karlovarský","CZ041",2018
+"2003","913","Sokolov","Karlovarský","CZ041",2018
+"2003","1401","Děčín","Ústecký","CZ042",2018
+"2003","1262","Chomutov","Ústecký","CZ042",2018
+"2003","1092","Litoměřice","Ústecký","CZ042",2018
+"2003","884","Louny","Ústecký","CZ042",2018
+"2003","1094","Most","Ústecký","CZ042",2018
+"2003","1293","Teplice","Ústecký","CZ042",2018
+"2003","1318","Ústí nad Labem","Ústecký","CZ042",2018
+"2003","1084","Česká Lípa","Liberecký","CZ051",2018
+"2003","827","Jablonec nad Nisou","Liberecký","CZ051",2018
+"2003","1494","Liberec ","Liberecký","CZ051",2018
+"2003","640","Semily","Liberecký","CZ051",2018
+"2003","1370","Hradec Králové","Královéhradecký","CZ052",2018
+"2003","689","Jičín","Královéhradecký","CZ052",2018
+"2003","1076","Náchod","Královéhradecký","CZ052",2018
+"2003","827","Rychnov nad Kněžnou","Královéhradecký","CZ052",2018
+"2003","1131","Trutnov","Královéhradecký","CZ052",2018
+"2003","951","Chrudim","Pardubický","CZ053",2018
+"2003","1404","Pardubice","Pardubický","CZ053",2018
+"2003","960","Svitavy","Pardubický","CZ053",2018
+"2003","1330","Ústí nad Orlicí","Pardubický","CZ053",2018
+"2003","839","Havlíčkův Brod","Kraj Vysočina","CZ061",2018
+"2003","1012","Jihlava","Kraj Vysočina","CZ061",2018
+"2003","638","Pelhřimov","Kraj Vysočina","CZ061",2018
+"2003","1122","Třebíč","Kraj Vysočina","CZ061",2018
+"2003","1164","Žďár nad Sázavou","Kraj Vysočina","CZ061",2018
+"2003","974","Blansko","Jihomoravský","CZ062",2018
+"2003","3367","Brno-město","Jihomoravský","CZ062",2018
+"2003","1498","Brno-venkov","Jihomoravský","CZ062",2018
+"2003","1034","Břeclav","Jihomoravský","CZ062",2018
+"2003","1281","Hodonín","Jihomoravský","CZ062",2018
+"2003","771","Vyškov","Jihomoravský","CZ062",2018
+"2003","1082","Znojmo","Jihomoravský","CZ062",2018
+"2003","375","Jeseník","Olomoucký","CZ071",2018
+"2003","2091","Olomouc","Olomoucký","CZ071",2018
+"2003","1001","Prostějov","Olomoucký","CZ071",2018
+"2003","1212","Přerov","Olomoucký","CZ071",2018
+"2003","1151","Šumperk","Olomoucký","CZ071",2018
+"2003","878","Kroměříž","Zlínský","CZ072",2018
+"2003","1263","Uherské Hradiště","Zlínský","CZ072",2018
+"2003","1291","Vsetín","Zlínský","CZ072",2018
+"2003","1715","Zlín","Zlínský","CZ072",2018
+"2003","951","Bruntál","Moravskoslezský","CZ080",2018
+"2003","2054","Frýdek-Místek","Moravskoslezský","CZ080",2018
+"2003","2360","Karviná","Moravskoslezský","CZ080",2018
+"2003","1527","Nový Jičín","Moravskoslezský","CZ080",2018
+"2003","1650","Opava","Moravskoslezský","CZ080",2018
+"2003","3010","Ostrava-město","Moravskoslezský","CZ080",2018
+"2004","11131","Hlavní město Praha ","Praha","CZ010",2019
+"2004","861","Benešov","Středočeský","CZ020",2019
+"2004","755","Beroun","Středočeský","CZ020",2019
+"2004","1491","Kladno","Středočeský","CZ020",2019
+"2004","910","Kolín","Středočeský","CZ020",2019
+"2004","624","Kutná Hora","Středočeský","CZ020",2019
+"2004","1036","Mělník","Středočeský","CZ020",2019
+"2004","1138","Mladá Boleslav","Středočeský","CZ020",2019
+"2004","883","Nymburk","Středočeský","CZ020",2019
+"2004","1075","Praha-východ","Středočeský","CZ020",2019
+"2004","1002","Praha-západ","Středočeský","CZ020",2019
+"2004","1023","Příbram","Středočeský","CZ020",2019
+"2004","491","Rakovník","Středočeský","CZ020",2019
+"2004","1721","České Budějovice","Jihočeský","CZ031",2019
+"2004","613","Český Krumlov","Jihočeský","CZ031",2019
+"2004","841","Jindřichův Hradec","Jihočeský","CZ031",2019
+"2004","576","Písek","Jihočeský","CZ031",2019
+"2004","537","Prachatice","Jihočeský","CZ031",2019
+"2004","695","Strakonice","Jihočeský","CZ031",2019
+"2004","958","Tábor","Jihočeský","CZ031",2019
+"2004","533","Domažlice","Plzeňský","CZ032",2019
+"2004","825","Klatovy","Plzeňský","CZ032",2019
+"2004","1504","Plzeň-město","Plzeňský","CZ032",2019
+"2004","608","Plzeň-jih","Plzeňský","CZ032",2019
+"2004","721","Plzeň-sever","Plzeňský","CZ032",2019
+"2004","372","Rokycany","Plzeňský","CZ032",2019
+"2004","483","Tachov","Plzeňský","CZ032",2019
+"2004","858","Cheb","Karlovarský","CZ041",2019
+"2004","1128","Karlovy Vary","Karlovarský","CZ041",2019
+"2004","917","Sokolov","Karlovarský","CZ041",2019
+"2004","1338","Děčín","Ústecký","CZ042",2019
+"2004","1281","Chomutov","Ústecký","CZ042",2019
+"2004","1183","Litoměřice","Ústecký","CZ042",2019
+"2004","892","Louny","Ústecký","CZ042",2019
+"2004","1231","Most","Ústecký","CZ042",2019
+"2004","1376","Teplice","Ústecký","CZ042",2019
+"2004","1300","Ústí nad Labem","Ústecký","CZ042",2019
+"2004","1100","Česká Lípa","Liberecký","CZ051",2019
+"2004","874","Jablonec nad Nisou","Liberecký","CZ051",2019
+"2004","1636","Liberec ","Liberecký","CZ051",2019
+"2004","702","Semily","Liberecký","CZ051",2019
+"2004","1481","Hradec Králové","Královéhradecký","CZ052",2019
+"2004","709","Jičín","Královéhradecký","CZ052",2019
+"2004","1065","Náchod","Královéhradecký","CZ052",2019
+"2004","830","Rychnov nad Kněžnou","Královéhradecký","CZ052",2019
+"2004","1105","Trutnov","Královéhradecký","CZ052",2019
+"2004","986","Chrudim","Pardubický","CZ053",2019
+"2004","1478","Pardubice","Pardubický","CZ053",2019
+"2004","965","Svitavy","Pardubický","CZ053",2019
+"2004","1392","Ústí nad Orlicí","Pardubický","CZ053",2019
+"2004","832","Havlíčkův Brod","Kraj Vysočina","CZ061",2019
+"2004","1043","Jihlava","Kraj Vysočina","CZ061",2019
+"2004","651","Pelhřimov","Kraj Vysočina","CZ061",2019
+"2004","1038","Třebíč","Kraj Vysočina","CZ061",2019
+"2004","1255","Žďár nad Sázavou","Kraj Vysočina","CZ061",2019
+"2004","999","Blansko","Jihomoravský","CZ062",2019
+"2004","3603","Brno-město","Jihomoravský","CZ062",2019
+"2004","1648","Brno-venkov","Jihomoravský","CZ062",2019
+"2004","1170","Břeclav","Jihomoravský","CZ062",2019
+"2004","1370","Hodonín","Jihomoravský","CZ062",2019
+"2004","847","Vyškov","Jihomoravský","CZ062",2019
+"2004","1023","Znojmo","Jihomoravský","CZ062",2019
+"2004","385","Jeseník","Olomoucký","CZ071",2019
+"2004","2142","Olomouc","Olomoucký","CZ071",2019
+"2004","1017","Prostějov","Olomoucký","CZ071",2019
+"2004","1217","Přerov","Olomoucký","CZ071",2019
+"2004","1152","Šumperk","Olomoucký","CZ071",2019
+"2004","966","Kroměříž","Zlínský","CZ072",2019
+"2004","1239","Uherské Hradiště","Zlínský","CZ072",2019
+"2004","1308","Vsetín","Zlínský","CZ072",2019
+"2004","1704","Zlín","Zlínský","CZ072",2019
+"2004","996","Bruntál","Moravskoslezský","CZ080",2019
+"2004","2091","Frýdek-Místek","Moravskoslezský","CZ080",2019
+"2004","2475","Karviná","Moravskoslezský","CZ080",2019
+"2004","1538","Nový Jičín","Moravskoslezský","CZ080",2019
+"2004","1741","Opava","Moravskoslezský","CZ080",2019
+"2004","2980","Ostrava-město","Moravskoslezský","CZ080",2019
+"2005","11943","Hlavní město Praha ","Praha","CZ010",2020
+"2005","882","Benešov","Středočeský","CZ020",2020
+"2005","831","Beroun","Středočeský","CZ020",2020
+"2005","1637","Kladno","Středočeský","CZ020",2020
+"2005","1024","Kolín","Středočeský","CZ020",2020
+"2005","682","Kutná Hora","Středočeský","CZ020",2020
+"2005","986","Mělník","Středočeský","CZ020",2020
+"2005","1190","Mladá Boleslav","Středočeský","CZ020",2020
+"2005","950","Nymburk","Středočeský","CZ020",2020
+"2005","1240","Praha-východ","Středočeský","CZ020",2020
+"2005","1221","Praha-západ","Středočeský","CZ020",2020
+"2005","986","Příbram","Středočeský","CZ020",2020
+"2005","484","Rakovník","Středočeský","CZ020",2020
+"2005","1791","České Budějovice","Jihočeský","CZ031",2020
+"2005","669","Český Krumlov","Jihočeský","CZ031",2020
+"2005","880","Jindřichův Hradec","Jihočeský","CZ031",2020
+"2005","662","Písek","Jihočeský","CZ031",2020
+"2005","499","Prachatice","Jihočeský","CZ031",2020
+"2005","666","Strakonice","Jihočeský","CZ031",2020
+"2005","970","Tábor","Jihočeský","CZ031",2020
+"2005","595","Domažlice","Plzeňský","CZ032",2020
+"2005","865","Klatovy","Plzeňský","CZ032",2020
+"2005","1673","Plzeň-město","Plzeňský","CZ032",2020
+"2005","646","Plzeň-jih","Plzeňský","CZ032",2020
+"2005","737","Plzeň-sever","Plzeňský","CZ032",2020
+"2005","399","Rokycany","Plzeňský","CZ032",2020
+"2005","530","Tachov","Plzeňský","CZ032",2020
+"2005","944","Cheb","Karlovarský","CZ041",2020
+"2005","1138","Karlovy Vary","Karlovarský","CZ041",2020
+"2005","932","Sokolov","Karlovarský","CZ041",2020
+"2005","1450","Děčín","Ústecký","CZ042",2020
+"2005","1336","Chomutov","Ústecký","CZ042",2020
+"2005","1171","Litoměřice","Ústecký","CZ042",2020
+"2005","840","Louny","Ústecký","CZ042",2020
+"2005","1192","Most","Ústecký","CZ042",2020
+"2005","1345","Teplice","Ústecký","CZ042",2020
+"2005","1391","Ústí nad Labem","Ústecký","CZ042",2020
+"2005","1102","Česká Lípa","Liberecký","CZ051",2020
+"2005","820","Jablonec nad Nisou","Liberecký","CZ051",2020
+"2005","1608","Liberec ","Liberecký","CZ051",2020
+"2005","741","Semily","Liberecký","CZ051",2020
+"2005","1547","Hradec Králové","Královéhradecký","CZ052",2020
+"2005","776","Jičín","Královéhradecký","CZ052",2020
+"2005","1135","Náchod","Královéhradecký","CZ052",2020
+"2005","744","Rychnov nad Kněžnou","Královéhradecký","CZ052",2020
+"2005","1203","Trutnov","Královéhradecký","CZ052",2020
+"2005","1027","Chrudim","Pardubický","CZ053",2020
+"2005","1471","Pardubice","Pardubický","CZ053",2020
+"2005","988","Svitavy","Pardubický","CZ053",2020
+"2005","1423","Ústí nad Orlicí","Pardubický","CZ053",2020
+"2005","927","Havlíčkův Brod","Kraj Vysočina","CZ061",2020
+"2005","1109","Jihlava","Kraj Vysočina","CZ061",2020
+"2005","673","Pelhřimov","Kraj Vysočina","CZ061",2020
+"2005","1160","Třebíč","Kraj Vysočina","CZ061",2020
+"2005","1201","Žďár nad Sázavou","Kraj Vysočina","CZ061",2020
+"2005","1013","Blansko","Jihomoravský","CZ062",2020
+"2005","3906","Brno-město","Jihomoravský","CZ062",2020
+"2005","1796","Brno-venkov","Jihomoravský","CZ062",2020
+"2005","1129","Břeclav","Jihomoravský","CZ062",2020
+"2005","1385","Hodonín","Jihomoravský","CZ062",2020
+"2005","825","Vyškov","Jihomoravský","CZ062",2020
+"2005","1095","Znojmo","Jihomoravský","CZ062",2020
+"2005","394","Jeseník","Olomoucký","CZ071",2020
+"2005","2260","Olomouc","Olomoucký","CZ071",2020
+"2005","1055","Prostějov","Olomoucký","CZ071",2020
+"2005","1288","Přerov","Olomoucký","CZ071",2020
+"2005","1186","Šumperk","Olomoucký","CZ071",2020
+"2005","975","Kroměříž","Zlínský","CZ072",2020
+"2005","1355","Uherské Hradiště","Zlínský","CZ072",2020
+"2005","1454","Vsetín","Zlínský","CZ072",2020
+"2005","1886","Zlín","Zlínský","CZ072",2020
+"2005","978","Bruntál","Moravskoslezský","CZ080",2020
+"2005","2110","Frýdek-Místek","Moravskoslezský","CZ080",2020
+"2005","2429","Karviná","Moravskoslezský","CZ080",2020
+"2005","1608","Nový Jičín","Moravskoslezský","CZ080",2020
+"2005","1783","Opava","Moravskoslezský","CZ080",2020
+"2005","3269","Ostrava-město","Moravskoslezský","CZ080",2020
+"2006","12530","Hlavní město Praha ","Praha","CZ010",2021
+"2006","988","Benešov","Středočeský","CZ020",2021
+"2006","914","Beroun","Středočeský","CZ020",2021
+"2006","1607","Kladno","Středočeský","CZ020",2021
+"2006","1049","Kolín","Středočeský","CZ020",2021
+"2006","685","Kutná Hora","Středočeský","CZ020",2021
+"2006","1051","Mělník","Středočeský","CZ020",2021
+"2006","1215","Mladá Boleslav","Středočeský","CZ020",2021
+"2006","960","Nymburk","Středočeský","CZ020",2021
+"2006","1396","Praha-východ","Středočeský","CZ020",2021
+"2006","1281","Praha-západ","Středočeský","CZ020",2021
+"2006","1022","Příbram","Středočeský","CZ020",2021
+"2006","573","Rakovník","Středočeský","CZ020",2021
+"2006","1886","České Budějovice","Jihočeský","CZ031",2021
+"2006","685","Český Krumlov","Jihočeský","CZ031",2021
+"2006","902","Jindřichův Hradec","Jihočeský","CZ031",2021
+"2006","644","Písek","Jihočeský","CZ031",2021
+"2006","530","Prachatice","Jihočeský","CZ031",2021
+"2006","714","Strakonice","Jihočeský","CZ031",2021
+"2006","1009","Tábor","Jihočeský","CZ031",2021
+"2006","615","Domažlice","Plzeňský","CZ032",2021
+"2006","884","Klatovy","Plzeňský","CZ032",2021
+"2006","1711","Plzeň-město","Plzeňský","CZ032",2021
+"2006","766","Plzeň-jih","Plzeňský","CZ032",2021
+"2006","789","Plzeň-sever","Plzeňský","CZ032",2021
+"2006","431","Rokycany","Plzeňský","CZ032",2021
+"2006","607","Tachov","Plzeňský","CZ032",2021
+"2006","963","Cheb","Karlovarský","CZ041",2021
+"2006","1233","Karlovy Vary","Karlovarský","CZ041",2021
+"2006","1005","Sokolov","Karlovarský","CZ041",2021
+"2006","1439","Děčín","Ústecký","CZ042",2021
+"2006","1300","Chomutov","Ústecký","CZ042",2021
+"2006","1185","Litoměřice","Ústecký","CZ042",2021
+"2006","921","Louny","Ústecký","CZ042",2021
+"2006","1284","Most","Ústecký","CZ042",2021
+"2006","1434","Teplice","Ústecký","CZ042",2021
+"2006","1372","Ústí nad Labem","Ústecký","CZ042",2021
+"2006","1100","Česká Lípa","Liberecký","CZ051",2021
+"2006","890","Jablonec nad Nisou","Liberecký","CZ051",2021
+"2006","1736","Liberec ","Liberecký","CZ051",2021
+"2006","740","Semily","Liberecký","CZ051",2021
+"2006","1606","Hradec Králové","Královéhradecký","CZ052",2021
+"2006","741","Jičín","Královéhradecký","CZ052",2021
+"2006","1157","Náchod","Královéhradecký","CZ052",2021
+"2006","828","Rychnov nad Kněžnou","Královéhradecký","CZ052",2021
+"2006","1159","Trutnov","Královéhradecký","CZ052",2021
+"2006","1038","Chrudim","Pardubický","CZ053",2021
+"2006","1638","Pardubice","Pardubický","CZ053",2021
+"2006","1039","Svitavy","Pardubický","CZ053",2021
+"2006","1533","Ústí nad Orlicí","Pardubický","CZ053",2021
+"2006","922","Havlíčkův Brod","Kraj Vysočina","CZ061",2021
+"2006","1184","Jihlava","Kraj Vysočina","CZ061",2021
+"2006","691","Pelhřimov","Kraj Vysočina","CZ061",2021
+"2006","1106","Třebíč","Kraj Vysočina","CZ061",2021
+"2006","1210","Žďár nad Sázavou","Kraj Vysočina","CZ061",2021
+"2006","1047","Blansko","Jihomoravský","CZ062",2021
+"2006","4056","Brno-město","Jihomoravský","CZ062",2021
+"2006","1920","Brno-venkov","Jihomoravský","CZ062",2021
+"2006","1166","Břeclav","Jihomoravský","CZ062",2021
+"2006","1443","Hodonín","Jihomoravský","CZ062",2021
+"2006","813","Vyškov","Jihomoravský","CZ062",2021
+"2006","1067","Znojmo","Jihomoravský","CZ062",2021
+"2006","374","Jeseník","Olomoucký","CZ071",2021
+"2006","2400","Olomouc","Olomoucký","CZ071",2021
+"2006","1076","Prostějov","Olomoucký","CZ071",2021
+"2006","1350","Přerov","Olomoucký","CZ071",2021
+"2006","1228","Šumperk","Olomoucký","CZ071",2021
+"2006","992","Kroměříž","Zlínský","CZ072",2021
+"2006","1338","Uherské Hradiště","Zlínský","CZ072",2021
+"2006","1399","Vsetín","Zlínský","CZ072",2021
+"2006","1883","Zlín","Zlínský","CZ072",2021
+"2006","955","Bruntál","Moravskoslezský","CZ080",2021
+"2006","2199","Frýdek-Místek","Moravskoslezský","CZ080",2021
+"2006","2534","Karviná","Moravskoslezský","CZ080",2021
+"2006","1598","Nový Jičín","Moravskoslezský","CZ080",2021
+"2006","1854","Opava","Moravskoslezský","CZ080",2021
+"2006","3241","Ostrava-město","Moravskoslezský","CZ080",2021
+"2007","13195","Hlavní město Praha ","Praha","CZ010",2022
+"2007","1018","Benešov","Středočeský","CZ020",2022
+"2007","977","Beroun","Středočeský","CZ020",2022
+"2007","1916","Kladno","Středočeský","CZ020",2022
+"2007","1040","Kolín","Středočeský","CZ020",2022
+"2007","793","Kutná Hora","Středočeský","CZ020",2022
+"2007","1146","Mělník","Středočeský","CZ020",2022
+"2007","1376","Mladá Boleslav","Středočeský","CZ020",2022
+"2007","1135","Nymburk","Středočeský","CZ020",2022
+"2007","1710","Praha-východ","Středočeský","CZ020",2022
+"2007","1456","Praha-západ","Středočeský","CZ020",2022
+"2007","1148","Příbram","Středočeský","CZ020",2022
+"2007","564","Rakovník","Středočeský","CZ020",2022
+"2007","2060","České Budějovice","Jihočeský","CZ031",2022
+"2007","762","Český Krumlov","Jihočeský","CZ031",2022
+"2007","999","Jindřichův Hradec","Jihočeský","CZ031",2022
+"2007","692","Písek","Jihočeský","CZ031",2022
+"2007","546","Prachatice","Jihočeský","CZ031",2022
+"2007","780","Strakonice","Jihočeský","CZ031",2022
+"2007","1083","Tábor","Jihočeský","CZ031",2022
+"2007","694","Domažlice","Plzeňský","CZ032",2022
+"2007","913","Klatovy","Plzeňský","CZ032",2022
+"2007","1955","Plzeň-město","Plzeňský","CZ032",2022
+"2007","624","Plzeň-jih","Plzeňský","CZ032",2022
+"2007","839","Plzeň-sever","Plzeňský","CZ032",2022
+"2007","471","Rokycany","Plzeňský","CZ032",2022
+"2007","604","Tachov","Plzeňský","CZ032",2022
+"2007","1093","Cheb","Karlovarský","CZ041",2022
+"2007","1301","Karlovy Vary","Karlovarský","CZ041",2022
+"2007","1044","Sokolov","Karlovarský","CZ041",2022
+"2007","1627","Děčín","Ústecký","CZ042",2022
+"2007","1402","Chomutov","Ústecký","CZ042",2022
+"2007","1384","Litoměřice","Ústecký","CZ042",2022
+"2007","999","Louny","Ústecký","CZ042",2022
+"2007","1332","Most","Ústecký","CZ042",2022
+"2007","1518","Teplice","Ústecký","CZ042",2022
+"2007","1453","Ústí nad Labem","Ústecký","CZ042",2022
+"2007","1294","Česká Lípa","Liberecký","CZ051",2022
+"2007","996","Jablonec nad Nisou","Liberecký","CZ051",2022
+"2007","1976","Liberec ","Liberecký","CZ051",2022
+"2007","779","Semily","Liberecký","CZ051",2022
+"2007","1751","Hradec Králové","Královéhradecký","CZ052",2022
+"2007","892","Jičín","Královéhradecký","CZ052",2022
+"2007","1225","Náchod","Královéhradecký","CZ052",2022
+"2007","889","Rychnov nad Kněžnou","Královéhradecký","CZ052",2022
+"2007","1365","Trutnov","Královéhradecký","CZ052",2022
+"2007","1126","Chrudim","Pardubický","CZ053",2022
+"2007","1836","Pardubice","Pardubický","CZ053",2022
+"2007","1193","Svitavy","Pardubický","CZ053",2022
+"2007","1554","Ústí nad Orlicí","Pardubický","CZ053",2022
+"2007","1031","Havlíčkův Brod","Kraj Vysočina","CZ061",2022
+"2007","1198","Jihlava","Kraj Vysočina","CZ061",2022
+"2007","677","Pelhřimov","Kraj Vysočina","CZ061",2022
+"2007","1179","Třebíč","Kraj Vysočina","CZ061",2022
+"2007","1288","Žďár nad Sázavou","Kraj Vysočina","CZ061",2022
+"2007","1127","Blansko","Jihomoravský","CZ062",2022
+"2007","4209","Brno-město","Jihomoravský","CZ062",2022
+"2007","2201","Brno-venkov","Jihomoravský","CZ062",2022
+"2007","1076","Břeclav","Jihomoravský","CZ062",2022
+"2007","1551","Hodonín","Jihomoravský","CZ062",2022
+"2007","918","Vyškov","Jihomoravský","CZ062",2022
+"2007","1289","Znojmo","Jihomoravský","CZ062",2022
+"2007","416","Jeseník","Olomoucký","CZ071",2022
+"2007","2559","Olomouc","Olomoucký","CZ071",2022
+"2007","1211","Prostějov","Olomoucký","CZ071",2022
+"2007","1398","Přerov","Olomoucký","CZ071",2022
+"2007","1347","Šumperk","Olomoucký","CZ071",2022
+"2007","1123","Kroměříž","Zlínský","CZ072",2022
+"2007","1425","Uherské Hradiště","Zlínský","CZ072",2022
+"2007","1556","Vsetín","Zlínský","CZ072",2022
+"2007","1955","Zlín","Zlínský","CZ072",2022
+"2007","1064","Bruntál","Moravskoslezský","CZ080",2022
+"2007","2246","Frýdek-Místek","Moravskoslezský","CZ080",2022
+"2007","2737","Karviná","Moravskoslezský","CZ080",2022
+"2007","1714","Nový Jičín","Moravskoslezský","CZ080",2022
+"2007","1950","Opava","Moravskoslezský","CZ080",2022
+"2007","3662","Ostrava-město","Moravskoslezský","CZ080",2022
+"2008","14339","Hlavní město Praha ","Praha","CZ010",2023
+"2008","1065","Benešov","Středočeský","CZ020",2023
+"2008","983","Beroun","Středočeský","CZ020",2023
+"2008","1918","Kladno","Středočeský","CZ020",2023
+"2008","1070","Kolín","Středočeský","CZ020",2023
+"2008","768","Kutná Hora","Středočeský","CZ020",2023
+"2008","1215","Mělník","Středočeský","CZ020",2023
+"2008","1500","Mladá Boleslav","Středočeský","CZ020",2023
+"2008","1178","Nymburk","Středočeský","CZ020",2023
+"2008","1973","Praha-východ","Středočeský","CZ020",2023
+"2008","1723","Praha-západ","Středočeský","CZ020",2023
+"2008","1224","Příbram","Středočeský","CZ020",2023
+"2008","629","Rakovník","Středočeský","CZ020",2023
+"2008","2123","České Budějovice","Jihočeský","CZ031",2023
+"2008","765","Český Krumlov","Jihočeský","CZ031",2023
+"2008","998","Jindřichův Hradec","Jihočeský","CZ031",2023
+"2008","770","Písek","Jihočeský","CZ031",2023
+"2008","588","Prachatice","Jihočeský","CZ031",2023
+"2008","812","Strakonice","Jihočeský","CZ031",2023
+"2008","1099","Tábor","Jihočeský","CZ031",2023
+"2008","739","Domažlice","Plzeňský","CZ032",2023
+"2008","892","Klatovy","Plzeňský","CZ032",2023
+"2008","2104","Plzeň-město","Plzeňský","CZ032",2023
+"2008","677","Plzeň-jih","Plzeňský","CZ032",2023
+"2008","872","Plzeň-sever","Plzeňský","CZ032",2023
+"2008","497","Rokycany","Plzeňský","CZ032",2023
+"2008","604","Tachov","Plzeňský","CZ032",2023
+"2008","1116","Cheb","Karlovarský","CZ041",2023
+"2008","1346","Karlovy Vary","Karlovarský","CZ041",2023
+"2008","1100","Sokolov","Karlovarský","CZ041",2023
+"2008","1595","Děčín","Ústecký","CZ042",2023
+"2008","1563","Chomutov","Ústecký","CZ042",2023
+"2008","1425","Litoměřice","Ústecký","CZ042",2023
+"2008","994","Louny","Ústecký","CZ042",2023
+"2008","1395","Most","Ústecký","CZ042",2023
+"2008","1542","Teplice","Ústecký","CZ042",2023
+"2008","1517","Ústí nad Labem","Ústecký","CZ042",2023
+"2008","1331","Česká Lípa","Liberecký","CZ051",2023
+"2008","1042","Jablonec nad Nisou","Liberecký","CZ051",2023
+"2008","2044","Liberec ","Liberecký","CZ051",2023
+"2008","803","Semily","Liberecký","CZ051",2023
+"2008","1857","Hradec Králové","Královéhradecký","CZ052",2023
+"2008","865","Jičín","Královéhradecký","CZ052",2023
+"2008","1281","Náchod","Královéhradecký","CZ052",2023
+"2008","877","Rychnov nad Kněžnou","Královéhradecký","CZ052",2023
+"2008","1374","Trutnov","Královéhradecký","CZ052",2023
+"2008","1140","Chrudim","Pardubický","CZ053",2023
+"2008","1872","Pardubice","Pardubický","CZ053",2023
+"2008","1152","Svitavy","Pardubický","CZ053",2023
+"2008","1588","Ústí nad Orlicí","Pardubický","CZ053",2023
+"2008","1037","Havlíčkův Brod","Kraj Vysočina","CZ061",2023
+"2008","1351","Jihlava","Kraj Vysočina","CZ061",2023
+"2008","728","Pelhřimov","Kraj Vysočina","CZ061",2023
+"2008","1200","Třebíč","Kraj Vysočina","CZ061",2023
+"2008","1333","Žďár nad Sázavou","Kraj Vysočina","CZ061",2023
+"2008","1259","Blansko","Jihomoravský","CZ062",2023
+"2008","4490","Brno-město","Jihomoravský","CZ062",2023
+"2008","2470","Brno-venkov","Jihomoravský","CZ062",2023
+"2008","1181","Břeclav","Jihomoravský","CZ062",2023
+"2008","1559","Hodonín","Jihomoravský","CZ062",2023
+"2008","996","Vyškov","Jihomoravský","CZ062",2023
+"2008","1241","Znojmo","Jihomoravský","CZ062",2023
+"2008","412","Jeseník","Olomoucký","CZ071",2023
+"2008","2664","Olomouc","Olomoucký","CZ071",2023
+"2008","1257","Prostějov","Olomoucký","CZ071",2023
+"2008","1422","Přerov","Olomoucký","CZ071",2023
+"2008","1363","Šumperk","Olomoucký","CZ071",2023
+"2008","1124","Kroměříž","Zlínský","CZ072",2023
+"2008","1467","Uherské Hradiště","Zlínský","CZ072",2023
+"2008","1568","Vsetín","Zlínský","CZ072",2023
+"2008","2102","Zlín","Zlínský","CZ072",2023
+"2008","1014","Bruntál","Moravskoslezský","CZ080",2023
+"2008","2207","Frýdek-Místek","Moravskoslezský","CZ080",2023
+"2008","2805","Karviná","Moravskoslezský","CZ080",2023
+"2008","1647","Nový Jičín","Moravskoslezský","CZ080",2023
+"2008","1966","Opava","Moravskoslezský","CZ080",2023
+"2008","3763","Ostrava-město","Moravskoslezský","CZ080",2023
+"2009","14488","Hlavní město Praha ","Praha","CZ010",2024
+"2009","1103","Benešov","Středočeský","CZ020",2024
+"2009","1000","Beroun","Středočeský","CZ020",2024
+"2009","1807","Kladno","Středočeský","CZ020",2024
+"2009","1129","Kolín","Středočeský","CZ020",2024
+"2009","781","Kutná Hora","Středočeský","CZ020",2024
+"2009","1197","Mělník","Středočeský","CZ020",2024
+"2009","1457","Mladá Boleslav","Středočeský","CZ020",2024
+"2009","1144","Nymburk","Středočeský","CZ020",2024
+"2009","2054","Praha-východ","Středočeský","CZ020",2024
+"2009","1802","Praha-západ","Středočeský","CZ020",2024
+"2009","1175","Příbram","Středočeský","CZ020",2024
+"2009","570","Rakovník","Středočeský","CZ020",2024
+"2009","2090","České Budějovice","Jihočeský","CZ031",2024
+"2009","778","Český Krumlov","Jihočeský","CZ031",2024
+"2009","978","Jindřichův Hradec","Jihočeský","CZ031",2024
+"2009","729","Písek","Jihočeský","CZ031",2024
+"2009","577","Prachatice","Jihočeský","CZ031",2024
+"2009","768","Strakonice","Jihočeský","CZ031",2024
+"2009","1107","Tábor","Jihočeský","CZ031",2024
+"2009","710","Domažlice","Plzeňský","CZ032",2024
+"2009","944","Klatovy","Plzeňský","CZ032",2024
+"2009","2185","Plzeň-město","Plzeňský","CZ032",2024
+"2009","715","Plzeň-jih","Plzeňský","CZ032",2024
+"2009","793","Plzeň-sever","Plzeňský","CZ032",2024
+"2009","474","Rokycany","Plzeňský","CZ032",2024
+"2009","591","Tachov","Plzeňský","CZ032",2024
+"2009","1129","Cheb","Karlovarský","CZ041",2024
+"2009","1232","Karlovy Vary","Karlovarský","CZ041",2024
+"2009","1064","Sokolov","Karlovarský","CZ041",2024
+"2009","1569","Děčín","Ústecký","CZ042",2024
+"2009","1474","Chomutov","Ústecký","CZ042",2024
+"2009","1296","Litoměřice","Ústecký","CZ042",2024
+"2009","1052","Louny","Ústecký","CZ042",2024
+"2009","1340","Most","Ústecký","CZ042",2024
+"2009","1424","Teplice","Ústecký","CZ042",2024
+"2009","1471","Ústí nad Labem","Ústecký","CZ042",2024
+"2009","1228","Česká Lípa","Liberecký","CZ051",2024
+"2009","1073","Jablonec nad Nisou","Liberecký","CZ051",2024
+"2009","2056","Liberec ","Liberecký","CZ051",2024
+"2009","849","Semily","Liberecký","CZ051",2024
+"2009","1854","Hradec Králové","Královéhradecký","CZ052",2024
+"2009","890","Jičín","Královéhradecký","CZ052",2024
+"2009","1292","Náchod","Královéhradecký","CZ052",2024
+"2009","905","Rychnov nad Kněžnou","Královéhradecký","CZ052",2024
+"2009","1320","Trutnov","Královéhradecký","CZ052",2024
+"2009","1077","Chrudim","Pardubický","CZ053",2024
+"2009","1880","Pardubice","Pardubický","CZ053",2024
+"2009","1126","Svitavy","Pardubický","CZ053",2024
+"2009","1561","Ústí nad Orlicí","Pardubický","CZ053",2024
+"2009","977","Havlíčkův Brod","Kraj Vysočina","CZ061",2024
+"2009","1328","Jihlava","Kraj Vysočina","CZ061",2024
+"2009","697","Pelhřimov","Kraj Vysočina","CZ061",2024
+"2009","1153","Třebíč","Kraj Vysočina","CZ061",2024
+"2009","1292","Žďár nad Sázavou","Kraj Vysočina","CZ061",2024
+"2009","1192","Blansko","Jihomoravský","CZ062",2024
+"2009","4578","Brno-město","Jihomoravský","CZ062",2024
+"2009","2408","Brno-venkov","Jihomoravský","CZ062",2024
+"2009","1212","Břeclav","Jihomoravský","CZ062",2024
+"2009","1503","Hodonín","Jihomoravský","CZ062",2024
+"2009","1001","Vyškov","Jihomoravský","CZ062",2024
+"2009","1251","Znojmo","Jihomoravský","CZ062",2024
+"2009","437","Jeseník","Olomoucký","CZ071",2024
+"2009","2681","Olomouc","Olomoucký","CZ071",2024
+"2009","1242","Prostějov","Olomoucký","CZ071",2024
+"2009","1405","Přerov","Olomoucký","CZ071",2024
+"2009","1369","Šumperk","Olomoucký","CZ071",2024
+"2009","1074","Kroměříž","Zlínský","CZ072",2024
+"2009","1468","Uherské Hradiště","Zlínský","CZ072",2024
+"2009","1566","Vsetín","Zlínský","CZ072",2024
+"2009","1968","Zlín","Zlínský","CZ072",2024
+"2009","1021","Bruntál","Moravskoslezský","CZ080",2024
+"2009","2254","Frýdek-Místek","Moravskoslezský","CZ080",2024
+"2009","2728","Karviná","Moravskoslezský","CZ080",2024
+"2009","1727","Nový Jičín","Moravskoslezský","CZ080",2024
+"2009","1893","Opava","Moravskoslezský","CZ080",2024
+"2009","3615","Ostrava-město","Moravskoslezský","CZ080",2024
